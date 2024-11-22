@@ -8,5 +8,5 @@
     "terminal.integrated.enableImages": true,
     "notebook.defaultFormatter": "ms-python.python",
     "dotnet.typeMembers.propertyGenerationBehavior": "preferAutoProperties",
-    "git.enableCommitSigning": true
+    "git.enableCommitSigning": false
 }

@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.gpuAcceleration": "on",
+    "chatgpt.max_tokens": 128000,
+    "chatgpt.model": "gpt-4o",
+    "chatgpt.temperature": 0,
+    "debugpy.showPythonInlineValues": true,
+    "editor.defaultFormatter": "ms-python.python",
+    "terminal.integrated.enableImages": true,
+    "notebook.defaultFormatter": "ms-python.python",
+    "dotnet.typeMembers.propertyGenerationBehavior": "preferAutoProperties",
+    "git.enableCommitSigning": true
+}
